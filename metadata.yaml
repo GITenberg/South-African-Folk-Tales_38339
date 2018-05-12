@@ -1,0 +1,46 @@
+_repo: South-African-Folk-Tales_38339
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Honey, James A.
+    aliases:
+    - Honeÿ, James A.
+    - Honeij, James Albert
+    birthdate: 1880
+    gutenberg_agent_id: '39408'
+    url: http://www.gutenberg.org/2009/agents/39408
+description: ''
+gutenberg_issued: '2011-12-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38339'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Folklore -- South Africa'
+- !lcc 'GR'
+- !lcsh 'Tales -- South Africa'
+tableOfContents: Origin of the difference in modes of life between Hottentots and
+  Bushmen -- The lost message -- The Monkey's fiddle -- The Tiger, the Ram, and the
+  Jackal -- The Jackal and the Wolf -- A Jackal and a Wolf -- The Lion, the Jackal,
+  and the Man -- The world's reward -- The Lion and the Jackal -- Tink-tinkje -- The
+  Lion and Jackal -- The Lion and Jackal -- The hunt of Lion and Jackal -- The story
+  of Lion and Little Jackal -- The Lioness and the Ostrich -- Crocodile's treason
+  -- The story of a dam -- The dance for water, or Rabbit's triumph -- Jackal and
+  Monkey -- Lion's share -- Jackal's bride -- The story of Hare -- The white man and
+  Snake -- Another version of the same fable -- Cloud eating -- Lion's illness --
+  Jackal, Dove, and Heron -- Cock and Jackal -- Elephant and Tortoise -- Another version
+  of the same fable -- Tortoise hunting Ostriches -- The judgment of Baboon -- Lion
+  and baboon -- The Zebra StalLion -- When Lion could fly -- Lion who thought himself
+  wiser than his mother -- Lion who took a Woman's shape -- Why has Jackal a long
+  black stripe on his back? -- Horse cursed by Sun -- Lion's defeat -- The origin
+  of death -- Another version of the same fable -- A third version of the same fable
+  -- A fourth version of the same fable -- A Zulu version of the legend of the "origin
+  of death" -- Literature on South-African folk-lore.
+title: South-African Folk-Tales
+url: http://www.gutenberg.org/ebooks/38339
